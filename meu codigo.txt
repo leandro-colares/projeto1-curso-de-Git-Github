@@ -1,2 +1,6 @@
 meu nome é Colares 
 sou um novo teste, nova linha 
+
+Teste 1
+teste 2 
+teste 3 
